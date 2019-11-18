@@ -1,2 +1,8 @@
 # Project exclude paths
 /venv/
+/.idea/codingbasecamp.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/libraries/R_User_Library.xml
+/.idea/vcs.xml
