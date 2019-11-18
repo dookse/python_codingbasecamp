@@ -1,0 +1,5 @@
+print(None == True)
+print(1 == True)
+print("" == True)
+print(0 == True)
+print(bool(0) == True)
